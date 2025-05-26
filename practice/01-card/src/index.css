@@ -1,0 +1,10 @@
+.artist-card img {
+    width: 300px;
+    height: 250px;
+    display: block;
+}
+
+.artist-card {
+    margin-left: 10px;
+    padding: 7px;
+}
