@@ -63,9 +63,9 @@ function UserCard({ user }) {
     }}>
       <h3>{user.name}</h3>
       {user.isOnline ? (
-        <p style={{ color: "green" }}>🟢 Online</p>
+        <p style={{ color: "green" }}> Online</p>
       ) : (
-        <p style={{ color: "gray" }}>⚫ Offline</p>
+        <p style={{ color: "gray" }}> Offline</p>
       )}
     </div>
   );
