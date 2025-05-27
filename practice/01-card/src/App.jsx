@@ -38,11 +38,3 @@ export function Card() {
         </>
     )
 }
-
-export function Just() {
-    return (
-        <div className="hello">
-            <p>hello from react</p>
-        </div>
-    )
-}
