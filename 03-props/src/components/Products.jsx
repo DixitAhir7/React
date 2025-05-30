@@ -1,16 +1,16 @@
 import '../App.css'
 
-function Product({ item }) {
+function Product({ product: { img, id, name, price } }) {
     return (
-        <div className="row">
+        <div className="col-4">
             <div className="product-details">
                 <div className="product-img">
-                    <img src={item.img} alt={item.name} />
+                    <img src={img} alt={name} />
                 </div>
                 <div className="product-content">
-                    <h2>{item.id}</h2>
-                    <p>{item.name}</p>
-                    <strong>{item.price}</strong>
+                    <h2>{id}</h2>
+                    <p>{name}</p>
+                    <strong>{price}</strong>
                 </div>
             </div>
         </div>
