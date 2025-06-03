@@ -1,20 +1,101 @@
 [
     {
-        "id": 1,
-        "name": "mobile",
-        "price": 50000,
-        "img": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,w_1920,h_1254,g_auto/dpr_auto/f_auto/q_auto:eco/v1/gettyimages-74961462?_a=BAVAZGDX0"
+        "id": "1",
+        "title": "season ball",
+        "brand": "HydroPeak",
+        "price": 25.99,
+        "rating": 4.5,
+        "category": "Sports",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZS2PdAUh0e8f9o0vcX6vQrQuP5YSMt0nMw&s"
     },
     {
-        "id": 2,
-        "name": "robot",
-        "price": 500000,
-        "img": "https://bigthink.com/wp-content/uploads/2016/08/origin-109.jpg?w=480&h=270&crop=1"
+        "id": "2",
+        "title": "Wireless Noise-Cancelling Headphones",
+        "brand": "SoundMax",
+        "price": 89.99,
+        "rating": 3.7,
+        "category": "Electronics",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-yfpG82pZPUtS87iynnNSqsUaqJy03mG8w&s"
     },
     {
-        "id": 3,
-        "name": "car",
-        "price": 5000000,
-        "img": "https://m.media-amazon.com/images/S/pv-target-images/3be9512722f03b50aa039fc0d2d71c1bca001b411026c2a554610ffe47ea4071._SX1080_FMjpg_.jpg"
+        "id": "3",
+        "title": "Organic Cotton T-Shirt",
+        "brand": "EcoWear",
+        "price": 19.99,
+        "rating": 4.3,
+        "category": "Fashion",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-k5dGSx0QQ-cT6yQprLxb0ctMs-oa0sRRg&s"
+    },
+    {
+        "id": "4",
+        "title": "Ceramic Coffee Mug Set",
+        "brand": "HomeBrew",
+        "price": 29.99,
+        "rating": 4.6,
+        "category": "Home & Kitchen",
+        "image_url": "https://m.media-amazon.com/images/I/71nW-kz8+CL.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Bluetooth Fitness Tracker",
+        "brand": "FitPulse",
+        "price": 49.99,
+        "rating": 2.2,
+        "category": "Health & Personal Care",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Xi9Yg4y-tAKC-Z0Pm0sJU3_XeKLsIwr2BQ&s"
+    },
+    {
+        "id": "6",
+        "title": "Portable Camping Lantern",
+        "brand": "LightTrail",
+        "price": 34.50,
+        "rating": 4.4,
+        "category": "Sports & Outdoors",
+        "image_url": "https://rukminim2.flixcart.com/image/850/1000/xif0q/lantern/r/t/c/1-9-lantern-lamp-led-candle-for-home-decoration-infispace-16-original-imagtkn4pvhghv8z.jpeg?q=90&crop=false"
+    },
+    {
+        "id": "7",
+        "title": "Noise-Isolating Earbuds",
+        "brand": "AudioZen",
+        "price": 29.99,
+        "rating": 4.1,
+        "category": "Electronics",
+        "image_url": "https://m.media-amazon.com/images/I/51fkoZe-K6L.jpg"
+    },
+    {
+        "id": "8",
+        "title": "Men's Running Shoes",
+        "brand": "StridePro",
+        "price": 59.99,
+        "rating": 4.5,
+        "category": "Fashion",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAoPNvnWce-s8_999I7-rfbNHY_auHfu4e-Q&s"
+    },
+    {
+        "id": "10",
+        "title": "Toothbrush",
+        "brand": "SmileBright",
+        "price": 39.99,
+        "rating": 4.3,
+        "category": "Health & Personal Care",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86IdVRNzmtzWS5Yy3YOvvsyOsIfTqw88rrw&s"
+    },
+    {
+        "id": "11",
+        "title": "Yoga Mat",
+        "brand": "ZenFlex",
+        "price": 24.99,
+        "rating": 4.4,
+        "category": "Sports & Outdoors",
+        "image_url": "https://m.media-amazon.com/images/I/71b5fW+s18L.jpg"
+    },
+    {
+        "id": "12",
+        "title": "Wireless Bluetooth Speaker",
+        "brand": "SoundWave",
+        "price": 59.99,
+        "rating": 4.5,
+        "category": "Electronics",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sc4GjBo4HUbSXYlLuo-pA-p6E6kWcjDm5w&s"
     }
 ]

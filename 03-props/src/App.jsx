@@ -1,13 +1,12 @@
 import products from "./Product.json";
 import Product from "./components/Products";
-import '../src/App.css'
 
 function App() {
     return (
-        <div className="products">
-            <div className="container row">
+        <div className="container">
+            <div className="products row">
                 {products.map((item) => (
-                    <Product product={item} />
+                    <Product product={item} key={item.id} />
                 ))}
             </div>
         </div>
