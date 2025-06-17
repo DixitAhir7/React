@@ -10,7 +10,10 @@ function App() {
   // }
 
   const Increase = () => {
-    setCount(prevCount => prevCount + 1)
+    setCount(count + 1);
+    if (count === 8) {
+      setCount(count)
+    }
   }
 
   return (
