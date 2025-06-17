@@ -1,5 +1,5 @@
 import products from "./Product.json";
-import Product from "./components/Products";
+import { Product } from "./components/Products";
 
 function App() {
     return (

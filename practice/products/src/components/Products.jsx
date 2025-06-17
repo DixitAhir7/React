@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import '../index.css'
 import Style from './style.module.css'
 
@@ -23,4 +24,4 @@ function Product({ product: { image_url, id, rating, title, price, category } })
     );
 }
 
-export default Product;
+export { Product }
