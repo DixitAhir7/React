@@ -5,10 +5,6 @@ import './index.css'
 function App() {
   const [count, setCount] = useState(0)
 
-  // function Increase() {
-  //   setCount(prevCount => ++prevCount);
-  // }
-
   const Increase = () => {
     setCount(count + 1);
     if (count === 8) {
