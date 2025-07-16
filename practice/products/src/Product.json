@@ -6,8 +6,7 @@
         "price": 25.99,
         "rating": 4.5,
         "category": "Sports",
-        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZS2PdAUh0e8f9o0vcX6vQrQuP5YSMt0nMw&s",
-        "liked": ""
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZS2PdAUh0e8f9o0vcX6vQrQuP5YSMt0nMw&s"
     },
     {
         "id": "2",
@@ -16,8 +15,7 @@
         "price": 89.99,
         "rating": 3.7,
         "category": "Electronics",
-        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-yfpG82pZPUtS87iynnNSqsUaqJy03mG8w&s",
-        "liked": ""
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-yfpG82pZPUtS87iynnNSqsUaqJy03mG8w&s"
     },
     {
         "id": "3",
@@ -26,8 +24,7 @@
         "price": 19.99,
         "rating": 4.3,
         "category": "Fashion",
-        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-k5dGSx0QQ-cT6yQprLxb0ctMs-oa0sRRg&s",
-        "liked": ""
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT-k5dGSx0QQ-cT6yQprLxb0ctMs-oa0sRRg&s"
     },
     {
         "id": "4",
@@ -36,8 +33,7 @@
         "price": 29.99,
         "rating": 4.6,
         "category": "Home & Kitchen",
-        "image_url": "https://m.media-amazon.com/images/I/71nW-kz8+CL.jpg",
-        "liked": ""
+        "image_url": "https://m.media-amazon.com/images/I/71nW-kz8+CL.jpg"
     },
     {
         "id": "5",
@@ -46,8 +42,7 @@
         "price": 49.99,
         "rating": 2.2,
         "category": "Health & Personal Care",
-        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Xi9Yg4y-tAKC-Z0Pm0sJU3_XeKLsIwr2BQ&s",
-        "liked": ""
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Xi9Yg4y-tAKC-Z0Pm0sJU3_XeKLsIwr2BQ&s"
     },
     {
         "id": "6",
@@ -56,8 +51,7 @@
         "price": 34.50,
         "rating": 4.4,
         "category": "Sports & Outdoors",
-        "image_url": "https://rukminim2.flixcart.com/image/850/1000/xif0q/lantern/r/t/c/1-9-lantern-lamp-led-candle-for-home-decoration-infispace-16-original-imagtkn4pvhghv8z.jpeg?q=90&crop=false",
-        "liked": ""
+        "image_url": "https://rukminim2.flixcart.com/image/850/1000/xif0q/lantern/r/t/c/1-9-lantern-lamp-led-candle-for-home-decoration-infispace-16-original-imagtkn4pvhghv8z.jpeg?q=90&crop=false"
     },
     {
         "id": "7",
@@ -66,8 +60,7 @@
         "price": 29.99,
         "rating": 4.1,
         "category": "Electronics",
-        "image_url": "https://m.media-amazon.com/images/I/51fkoZe-K6L.jpg",
-        "liked": ""
+        "image_url": "https://m.media-amazon.com/images/I/51fkoZe-K6L.jpg"
     },
     {
         "id": "8",
@@ -76,8 +69,7 @@
         "price": 59.99,
         "rating": 4.5,
         "category": "Fashion",
-        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAoPNvnWce-s8_999I7-rfbNHY_auHfu4e-Q&s",
-        "liked": ""
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAoPNvnWce-s8_999I7-rfbNHY_auHfu4e-Q&s"
     },
     {
         "id": "10",
@@ -86,8 +78,7 @@
         "price": 39.99,
         "rating": 4.3,
         "category": "Health & Personal Care",
-        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86IdVRNzmtzWS5Yy3YOvvsyOsIfTqw88rrw&s",
-        "liked": ""
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86IdVRNzmtzWS5Yy3YOvvsyOsIfTqw88rrw&s"
     },
     {
         "id": "11",
@@ -96,8 +87,7 @@
         "price": 24.99,
         "rating": 4.4,
         "category": "Sports & Outdoors",
-        "image_url": "https://m.media-amazon.com/images/I/71b5fW+s18L.jpg",
-        "liked": ""
+        "image_url": "https://m.media-amazon.com/images/I/71b5fW+s18L.jpg"
     },
     {
         "id": "12",
@@ -106,7 +96,6 @@
         "price": 59.99,
         "rating": 4.5,
         "category": "Electronics",
-        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sc4GjBo4HUbSXYlLuo-pA-p6E6kWcjDm5w&s",
-        "liked": ""
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0sc4GjBo4HUbSXYlLuo-pA-p6E6kWcjDm5w&s"
     }
 ]

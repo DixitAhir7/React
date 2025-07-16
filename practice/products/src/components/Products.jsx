@@ -10,7 +10,7 @@ function Product({ product: { image_url, id, rating, title, price, category } })
         <div className="col-4">
             <div className="product-details">
                 <div className="product-img">
-                    <img src={image_url} alt={name} />
+                    <img src={image_url} />
                 </div>
                 <div className="product-content">
                     <h3>{id}</h3>

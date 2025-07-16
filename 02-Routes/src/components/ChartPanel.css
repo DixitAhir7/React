@@ -1,0 +1,15 @@
+.panel {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  padding: 24px 20px;
+  margin-bottom: 24px;
+  min-height: 260px;
+}
+
+.chart-panel h2 {
+  color: #179bb7;
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 12px;
+} 
