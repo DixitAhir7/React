@@ -29,7 +29,7 @@ export default function Dogapi() {
                 setBreeds(breedList)
             })
         } else {
-            throw new Error('api error')
+            console.log('api error')
         }
     };
 
@@ -38,7 +38,7 @@ export default function Dogapi() {
         if (imgResponse.status === 200) {
             setImg(imgResponse.data.message)
         } else {
-            throw new Error('image fetching error')
+            console.log('image fetching error')
         }
     }
 
