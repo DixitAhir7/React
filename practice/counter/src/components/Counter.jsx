@@ -20,7 +20,7 @@ export default function Counter() {
             </div>
             <div>
                 <h1>count: {count}</h1>
-                <div id="btns" className="mt-2">
+                <div className="mt-2">
                     <button onClick={() => dispatch({ type: 'increment' })}>increse</button>
                     <button className="ml-2" onClick={() => dispatch({ type: 'decrement' })}>decrese</button>
                 </div>
